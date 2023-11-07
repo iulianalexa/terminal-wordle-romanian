@@ -4,4 +4,4 @@
 Press `:` to open the controls menu.
 
 ## About
-This is a solo project made using ncurses for PCLP1 @ ACS UPB in 2022.
+This is a solo ncurses project made in 2022 for PCLP1 @ ACS UPB.
